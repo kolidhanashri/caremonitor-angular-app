@@ -54,7 +54,7 @@ Note -
 - **Angular 19+**
 - **RxJS**
 - **Angular Router**
-- **Angular Component Store / Signal Store**
+- **Angular Component**
 - **Angular Material** (optional, used for UI)
 - **ngx-cookie-service**
 - **json-server** (mock backend)
